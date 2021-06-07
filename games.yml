@@ -20,6 +20,7 @@ ps4:
   - CUSA08829_00 # Modern Warfare
   - CUSA05770_00 # Battlefront II
   - CUSA05877_00 # Persona 5
+  - CUSA06638_00 # Persona 5
   - CUSA02299_00 # Spider-Man
   - CUSA07408_00 # God of War
   - CUSA00744_00 # Minecraft
@@ -39,6 +40,11 @@ ps4:
   - CUSA00288_00 # FINAL FANTASY XIV Online
   - CUSA09032_00 # Yakuza 6
   - CUSA00003_00 # Driveclub
+  - CUSA02092_00 # DOOM
+  - CUSA12009_00 # BLAZBLUE CROSS TAG BATTLE
+  - CUSA06014_00 # TEKKEN 7
+  - CUSA08992_00 # DRAGON BALL FighterZ
+  - CUSA01222_00 # STREET FIGHTER V
 ps3:
 
 vita:
